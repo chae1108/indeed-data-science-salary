@@ -1,0 +1,103 @@
+city,company,job_title,salary
+Houston,Avispa Technology,Data Scientist 5796057,100000.0
+Houston,DISYS,Principal Data Scientist,135000.0
+Houston,Baylor College of Medicine,Senior Quality Assurance / Quality Control (Research) Analys...,60998.0
+Houston,Oscar Technology,Big Data Analytics Manager,160000.0
+Houston,Baylor College of Medicine,Bioinformatics Programmer II,72120.0
+Houston,Baylor College of Medicine,Senior Research Quality Assurance Analyst,54590.0
+Houston,Clearpoint,Marketing Manager | Strategic Data Analysis,110000.0
+Houston,Selby Jennings,Senior Predictive Modeling Actuary,100000.0
+Houston,Selby Jennings,Catastrophe Risk Analyst - Quantitative,97500.0
+Phoenix,Career Evolutions,Data Services Engineer,150000.0
+Phoenix,Career Evolutions,Data Architect,150000.0
+Phoenix,Arizona State University,Managment Research Analyst,45160.0
+Phoenix,Retail Search Group on behalf of Retailer,Data Scientist-Supply Chain (Manhattan),90000.0
+Phoenix,State of Arizona,Public Health Scientist 3,56700.0
+Phoenix,Arizona State University,Data Analysis Specialist,48150.0
+Phoenix,Moxie Recruiting - Client,Senior Data Scientist / Machine Learning,140000.0
+Phoenix,SiteLock,Web Security Research Analyst,52500.0
+Phoenix,The University of Arizona,Assistant/Associate Research Scientist,95000.0
+Phoenix,"City of Goodyear, AZ",Budget & Research Analyst,79126.5
+Phoenix,"TEKYOGI, LLC",data scientist,90000.0
+Phoenix,Arizona State University,Etch Process Engineer,69140.0
+Phoenix,State of Arizona,Epidemiology Program Manager,65000.0
+Phoenix,Reckitt Benckiser Group,Sr. Applications Engineer,95000.0
+Phoenix,Maricopa County,Research Data Management & Grant Development Analyst,63617.0
+Phoenix,The University of Arizona,"Accounting Manager (Phoenix, Arizona)",55198.0
+Chicago,InsightsNow Inc.,Research Analyst,50000.0
+Chicago,Hirewell,Data Scientist,85000.0
+Chicago,Selby Jennings,Data Scientist – Big Data/Artificial Intelligence,150000.0
+Chicago,Workbridge Associates,Data Scientist,115000.0
+Chicago,Analytic Recruiting,Lead Data Scientist,140000.0
+Chicago,Jobspring Partners,Data Scientist,115000.0
+Chicago,Silva Capital Management,Quantitative Analyst,125000.0
+Chicago,Jobspring Partners,Software Scientist,87500.0
+Chicago,Smith Hanley Associates,Statistical Research Scientist,82500.0
+San+Francisco,Blue Owl,Save lives via experimental design,250000.0
+San+Francisco,Intelletec,Data Scientist (Data Engineer),180000.0
+San+Francisco,ComSolutions LLC,Life Science Data Analyst,70000.0
+New+York,Big Cloud,Data Scientist,150000.0
+New+York,New York City Department of Health and Mental Hygi...,Senior Analyst (Biostatistician or Epidemiologist),88331.0
+New+York,TalentHub Worldwide,Data Scientist,105000.0
+New+York,Princeton Consulting,Data Scientist,150000.0
+New+York,Geode Executive Search,"Data Scientist - Text Analytics - SQL, R, SAS",200000.0
+New+York,Smith Hanley Associates,Data Scientist,82500.0
+New+York,Workbridge Associates,Data Scientist,115000.0
+New+York,TW Staffing Solutions,Data Scientist,199000.0
+Dallas,Analytic Recruiting,Principal Data Scientist - Supply Chain,130000.0
+Dallas,Analytic Recruiting,Acquisition Marketing Data Scientist,90000.0
+Dallas,All-In Analytics,Senior Marketing Data Scientist,90000.0
+Dallas,Prime Team Partners,Data Scientist,90000.0
+Dallas,Selby Jennings,Catastrophe Risk Analyst - Quantitative,97500.0
+Philadelphia,Workbridge Associates,"Junior Data Scientist - R, Web Scraping, Database Algorithms",70000.0
+Philadelphia,TEEMA Solutions Group,Big Data Engineer | Remote | Mature Start-up,150000.0
+Philadelphia,Smith Hanley Associates,Statistician / Methodologist-PHARMACEUTICAl,105000.0
+Philadelphia,Workbridge Associates,"Healthcare Data Scientist - R, Machine Learning, Modeling",90000.0
+Philadelphia,Smith Hanley Associates,Sr. Data Analyst-Statistician-PHARMA,72500.0
+Philadelphia,Jobspring Partners,Tech Lead (Java/Scala/Machine Learning),137500.0
+Philadelphia,Workbridge Associates,"Healthcare Data Scientist - Modeling, Machine-Learning, R",87500.0
+Denver,University of Colorado,Senior Informatics Analyst,68000.0
+Denver,10Roof Technology,"Big Data Developer (Spark, Hadoop, Hive)",105000.0
+Denver,Denver Health,Research Scientist 5A Eating Disorder Unit,93645.0
+Denver,Denver Health,Business Manager - RADARS,88091.0
+Denver,University of Colorado,MCDB Accounting Technician III,42096.0
+Denver,UCAR,Software Engineer I or II,63500.0
+Los+Angeles,Tessie Cleveland Community Service Corporation,Senior Research Analyst,56000.0
+Los+Angeles,NeoHire South,Modelers (Machine Learning),200000.0
+Pittsburgh,The University of Pittsburgh,Systems Programmer,61542.0
+Pittsburgh,The University of Pittsburgh,CNUP Assistant,23712.0
+Pittsburgh,The University of Pittsburgh,Program Statistician,40014.0
+Pittsburgh,All-In Analytics,Senior Statistician,75500.0
+Pittsburgh,The University of Pittsburgh,Research Technician,40014.0
+Pittsburgh,The University of Pittsburgh,Laboratory Specialist,30810.0
+Miami,Morgan Stephens,Librarian Research Analyst,80000.0
+Miami,Bradsby Group,Senior Scientist,100000.0
+Miami,Smith Hanley Associates,Senior Operations Research Analyst,85000.0
+Miami,Staffing Resource Group,QC Chemist,50000.0
+Atlanta,Centers for Disease Control and Prevention,Mathematical Statistician,120002.5
+Atlanta,Stackfolio,Lead Data Scientist,80000.0
+Atlanta,Centers for Disease Control and Prevention,Health Scientist,141158.0
+Atlanta,Analytic Recruiting,Senior Data Scientist,112500.0
+Atlanta,CHASE Professionals,Sr. Data Scientist,110000.0
+Atlanta,CSTE,Associate Research Analyst,51706.0
+Atlanta,U.S. Department of Labor,Supervisory Economist/Statistician,101553.5
+Atlanta,Centers for Disease Control and Prevention,Supervisory Health Scientist,120002.5
+Atlanta,aquesst,Data Scientist/Machine Learning,135000.0
+Atlanta,Emory University,"Scientist, Med Imag Analysis",69900.0
+Atlanta,"eHire, LLC",Sr Data Scientist,150000.0
+Atlanta,Emory University,Institutional Research Analyst,69900.0
+Seattle,HERO.Jobs,"Machine Learning Engineer - Big Data, Python, R",160000.0
+Seattle,Shyft,Data Scientist,100000.0
+Seattle,Liberty Mutual,Senior Analyst¸ Data Science,94800.0
+Austin,Open Lending,Big Data Scientist,107500.0
+Austin,All-In Analytics,Senior Deep Learning Data Scientist,150000.0
+Austin,XOR Data Exchange,Senior Software Engineer/Team Lead,90000.0
+Portland,Oregon Health & Science University,Assistant Professor,105000.0
+Portland,State of Oregon,Natural Resource Specialist 4 (Life Cycle Analysis Specialis...,69042.0
+Portland,Cascade Insights,Prospector,45000.0
+Portland,Oregon Health & Science University,Postdoctoral Researcher,45000.0
+Washington%2C+DC,Management Analysis Technologies Inc.,Health Data Analyst,80000.0
+Washington%2C+DC,"City Administrator, Ofc of the",Senior Data Scientist,118992.5
+Washington%2C+DC,"Tygart Technology, Inc.",Data Scientist,140000.0
+Washington%2C+DC,"City Administrator, Ofc of the",Data Scientist,77834.0
+Washington%2C+DC,Workbridge Associates,Data Scientist,130000.0
